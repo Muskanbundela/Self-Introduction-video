@@ -7,6 +7,6 @@ This repository contains my self-introduction video, created as part of an acade
 
 You can watch the self-introduction video using the link below:
 
-🔗 View Self-Introduction Video
+https://drive.google.com/file/d/1QAxPUvZ-5NTccXLuXeTuaFgdyNAFEe4i/view?usp=sharing
 
 Thank you for taking the time to visit this repository.
